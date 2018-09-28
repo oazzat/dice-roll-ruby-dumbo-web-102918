@@ -12,4 +12,4 @@ while counter<20 do
   roll()
   counter += 1
 end
-end
+
